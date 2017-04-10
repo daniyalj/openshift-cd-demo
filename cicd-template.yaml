@@ -38,12 +38,12 @@ parameters:
   required: true
 - description: DEV project name
   displayName: DEV project name
-  value: dev
+  value: development
   name: DEV_PROJECT
   required: true
 - description: STAGE project name
   displayName: STAGE project name
-  value: stage
+  value: staging
   name: STAGE_PROJECT
   required: true
 objects:
